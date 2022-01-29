@@ -1,0 +1,35 @@
+.todo-input {
+  border: none;
+}
+.add-todo {
+  margin-left: 10px;
+  font-size: 20px;
+  border: none;
+}
+.todo-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.todo-text {
+  flex: 1;
+  margin: 5px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.right-side {
+  flex: 1;
+}
+.delete-todo {
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  background-color: rgb(97, 95, 95);
+  color: white;
+}
+.checkbox {
+  margin-left: 5px;
+  height: 20px;
+  width: 20px;
+}
